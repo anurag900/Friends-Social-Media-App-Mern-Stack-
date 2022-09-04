@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #161616;
+  box-shadow: 0 1px 0 #282828;
+  height: 4vh;
+  color:white ;
+}
+
+
+/* 
+@media screen and (max-width: 600px) {
+  .footer {
+    font-size: 8vw;
+  } 
+ 
+
+} */
